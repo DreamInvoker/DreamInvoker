@@ -1,7 +1,9 @@
 ### Hi there 👋
-I am Shuang Zeng. 
+This is Shuang Zeng. 
 
-Currently I am a second year Master's student at Peking University under the supervision of Prof. Baobao Chang. My research interests include Information Extraction and Graph Neural Networks.
+Currently I am a second-year Master's student at Peking University under the supervision of Prof. Baobao Chang.
+
+My research interests include Information Extraction and Graph Neural Networks.
 
 <!--
 **DreamInvoker/DreamInvoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
