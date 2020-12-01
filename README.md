@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am Shuang Zeng. 
+
+Currently I am a second year Master's student at the Institute of Computational Linguistics at Peking University. I received my B.Sc. degree in the School of Computer and Information Technology in June, 2017 from Beijing Jiaotong University. In 2019, I started my Master's degree under the supervision of Prof. Baobao Chang. My research interests include Information Extraction and Graph Neural Networks.
 
 <!--
 **DreamInvoker/DreamInvoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
