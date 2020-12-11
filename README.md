@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is Shuang Zeng. 
 
-Currently I am a second-year Master's student at Peking University under the supervision of Prof. Baobao Chang.
+Currently I am a second-year Master's student at Peking University under the supervision of Prof. [Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm).
 
 My research interests include Information Extraction and Graph Neural Networks.
 
