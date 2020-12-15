@@ -1,4 +1,6 @@
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DreamInvoker" alt="DreamInvoker" /> </p>
+
 This is Shuang Zeng [[google scholar]](https://scholar.google.com/citations?user=cTanK_QAAAAJ&hl=en). 
 
 Currently I am a second-year Master's student at Peking University under the supervision of Prof. [Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) [[google scholar]](https://scholar.google.com/citations?user=LaKNyhQAAAAJ&hl=en).
@@ -19,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Profile Summary
+
+![summary](https://github-readme-stats.vercel.app/api?username=DreamInvoker&show_icons=true&theme=radical)
