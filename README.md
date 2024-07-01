@@ -7,7 +7,7 @@ Currently, I am an application researcher in Data-Douyin-Comment at ByteDance.
 
 I got Master Degree at Peking University under the supervision of Prof. [Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) [[google scholar]](https://scholar.google.com/citations?user=LaKNyhQAAAAJ&hl=en).
 
-My research interests now include Large Vision-Language Model, Retrieval-augmented Generation, Text2SQL, and Question Answering.
+My research interests now include Large Vision-Language Model (LVLM), Retrieval-augmented Generation (RAG), Text2SQL, and Question Answering (QA). My previous research interests include Graph Neural Networks (GNNs), Information Extraction (IE), and knowledge graphs (KGs).
 
 <!--
 **DreamInvoker/DreamInvoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
