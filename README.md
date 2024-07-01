@@ -5,7 +5,7 @@ This is Shuang Zeng [[google scholar]](https://scholar.google.com/citations?user
 
 Currently, I am an Algorithm Engineer in Data-Douyin-Comment at ByteDance.
 
-I got my Master Degree at Peking University under the supervision of Prof. [Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) [[google scholar]](https://scholar.google.com/citations?user=LaKNyhQAAAAJ&hl=en).
+I got my Master's Degree at Peking University under the supervision of Prof. [Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) [[google scholar]](https://scholar.google.com/citations?user=LaKNyhQAAAAJ&hl=en).
 
 My research interests now include Large Vision-Language Model (LVLM), Retrieval-augmented Generation (RAG), Text2SQL, and Question Answering (QA). My previous research interests include Graph Neural Networks (GNNs), Information Extraction (IE), and knowledge graphs (KGs).
 
