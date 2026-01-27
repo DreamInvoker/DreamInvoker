@@ -3,11 +3,11 @@
 
 This is Shuang Zeng [[google scholar]](https://scholar.google.com/citations?user=cTanK_QAAAAJ&hl=en). 
 
-Currently, I am an Algorithm Engineer in Data-Douyin-Comment at ByteDance.
+Currently, I am an Algorithm Engineer in YuanBao at Tencent.
 
 I got my Master's Degree at Peking University under the supervision of Prof. [Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) [[google scholar]](https://scholar.google.com/citations?user=LaKNyhQAAAAJ&hl=en).
 
-My research interests now include Large Vision-Language Model (LVLM), Retrieval-augmented Generation (RAG), Text2SQL, and Question Answering (QA). My previous research interests include Graph Neural Networks (GNNs), Information Extraction (IE), and knowledge graphs (KGs).
+My research interests now include Large Vision-Language Model (LVLM), Retrieval-augmented Generation (RAG), Text2SQL, Information Retrieval (IR) and Question Answering (QA). My previous research interests include Graph Neural Networks (GNNs), Information Extraction (IE), and knowledge graphs (KGs).
 
 <!--
 **DreamInvoker/DreamInvoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
